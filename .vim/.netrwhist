@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/yuri/Projects/piperun-wordpress/wordpress/wp-content/plugins/crmpiperun/Admin'
+let g:netrw_dirhist_2='/home/yuri/Projects/piperun-wordpress/wordpress/wp-content/plugins/crmpiperun'
+let g:netrw_dirhist_1='/home/yuri/Projects/piperun-wordpress/wordpress/wp-content/plugins/crmpiperun/views'
+let g:netrw_dirhist_0='/home/yuri/Projects/piperun-wordpress/wordpress/wp-content/plugins/crmpiperun'
+let g:netrw_dirhist_9='/home/yuri/Projects/piperun-wordpress/wordpress/wp-content/plugins/crmpiperun/Admin'
+let g:netrw_dirhist_8='/home/yuri/Projects/piperun-wordpress/wordpress/wp-content/plugins/crmpiperun'
+let g:netrw_dirhist_7='/home/yuri/Projects/piperun-wordpress/wordpress/wp-content/plugins/crmpiperun/Lib'
+let g:netrw_dirhist_6='/home/yuri/Projects/piperun-wordpress/wordpress/wp-content/plugins/crmpiperun'
+let g:netrw_dirhist_5='/home/yuri/Projects/piperun-wordpress/wordpress/wp-content/plugins/crmpiperun/vendor'
+let g:netrw_dirhist_4='/home/yuri/Projects/piperun-wordpress/wordpress/wp-content/plugins/crmpiperun'

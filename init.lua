@@ -203,6 +203,8 @@ require("lazy").setup({
 		lazy = false,
 	},
 
+	-- Presence
+	"andweeb/presence.nvim",
 })
 
 -- ===============================

@@ -21,6 +21,9 @@ Plugin 'prabirshrestha/asyncomplete-lsp.vim'
 " Status Line
 Plugin 'itchyny/lightline.vim'
 
+" Theme
+Plugin 'ayu-theme/ayu-vim'
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -45,10 +48,9 @@ set number
 set laststatus=2
 
 " Theme configuration
-colorscheme onedark
-let g:lightline = {
-    \ 'colorscheme': 'onedark',
-    \ }
+set termguicolors
+let ayucolor="dark"
+colorscheme ayu
 
 " Auto complete configuration
 inoremap <expr> <Tab>   pumvisible() ? "\<C-n>" : "\<Tab>"
